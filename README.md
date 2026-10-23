@@ -1,12 +1,12 @@
-# AUTOVET
+# AutoVet
 
 Do In-Vehicle Apps Follow the Rules? Automated Conformance Assessment for Android Automotive Apps
 
 ## Rules
 
-List of all rules of Google’s Car App Quality Guidelines in AUTOVET. The specific rules mentioned in this paper have been bolded.
+List of all rules of Google’s Car App Quality Guidelines in AutoVet. The specific rules mentioned in this paper have been bolded.
 
-### List of all tested rules of Google's Car App Quality Guidelines in AUTOVET
+### List of all tested rules of Google's Car App Quality Guidelines in AutoVet
 
 | Categories            | Criteria                    | App                                                          | ID & Description                                                                                                                                                                                                                                                                                                                                                      |
 | --------------------- | --------------------------- | ------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -44,7 +44,7 @@ List of all rules of Google’s Car App Quality Guidelines in AUTOVET. The speci
 | Visual Effects        | User Experience             | Video, Games, Browsers                                       | **UX-2: Touch targets are at least 24dp apart from each other and 24dp away from screen edges.**                                                                                                                                                                                                                                                                      |
 | Visual Effects        | User Experience             | Video, Games, Browsers                                       | **UX-3: Font sizes should be at least 24sp.**                                                                                                                                                                                                                                                                                                                         |
 
-### List of all excluded rules of Google's Car App Quality Guidelines in \tool
+### List of all excluded rules of Google's Car App Quality Guidelines in AutoVet
 
 | Categories           | Criteria                         | App                                                          | ID & Description                                                                                                                                                                               | Reason                                         |
 | -------------------- | -------------------------------- | ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
